@@ -1,0 +1,12 @@
+{
+  "name": "md-helpers",
+  "version": "1.0.0",
+  "description": "majas darbd uz 10 balem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Davis Iljins",
+  "license": "ISC",
+  "type": "module"
+}
